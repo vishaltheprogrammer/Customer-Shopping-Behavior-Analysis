@@ -29,3 +29,18 @@ This project analyzes customer shopping behavior using transactional data from 3
 - **Average Purchase Amount**: ₹59.76
 - **Average Review Rating**: 3.75
 - **Subscription Split**: 27% Subscribed vs 73% Non-Subscribed
+
+- 
+## 🤝 Connect With Me
+
+**LinkedIn:** [vishaltheprogrammer](https://www.linkedin.com/in/vishaltheprogrammer/)
+
+**GitHub:** [vishaltheprogrammer](https://github.com/vishaltheprogrammer)
+
+<div align="center">
+
+### Thanks for visiting my profile! ⭐
+
+*Exploring Data • Discovering Insights • Driving Decisions*
+
+</div>
