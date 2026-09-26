@@ -18,7 +18,7 @@ This project analyzes customer shopping behavior using transactional data from 3
 - `notebook.ipynb`: Data Cleaning & Feature Engineering Script
 - `queries.sql`: PostgreSQL Analysis Queries
 - `Customer Shopping Behavior Analysis.pdf`: Detailed Project Report
-- - `Customer behavior analysis.pbix`: Detailed Project Report
+- `Customer behavior analysis.pbix`: Detailed Project Report
 ## 📊 Power BI Dashboard
 ## 📊 Interactive Power BI Dashboard
 
@@ -30,7 +30,7 @@ This project analyzes customer shopping behavior using transactional data from 3
 - **Average Review Rating**: 3.75
 - **Subscription Split**: 27% Subscribed vs 73% Non-Subscribed
 
-- 
+ 
 ## 🤝 Connect With Me
 
 **LinkedIn:** [vishaltheprogrammer](https://www.linkedin.com/in/vishaltheprogrammer/)
