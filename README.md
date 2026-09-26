@@ -20,4 +20,12 @@ This project analyzes customer shopping behavior using transactional data from 3
 - `Customer Shopping Behavior Analysis.pdf`: Detailed Project Report
 - - `Customer behavior analysis.pbix`: Detailed Project Report
 ## 📊 Power BI Dashboard
+## 📊 Interactive Power BI Dashboard
+
 ![Customer Behavior Analysis Dashboard](dashboard.png)
+
+### Key Metrics Shown:
+- **Total Customers**: 3,900[cite: 8]
+- **Average Purchase Amount**: ₹59.76[cite: 8]
+- **Average Review Rating**: 3.75[cite: 8]
+- **Subscription Split**: 27% Subscribed vs 73% Non-Subscribed[cite: 8]
