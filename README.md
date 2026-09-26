@@ -1,4 +1,3 @@
-# Customer-Shopping-Behavior-Analysis
 # 🛒 Customer Shopping Behavior Analysis
 
 ## 📌 Project Overview
@@ -19,3 +18,6 @@ This project analyzes customer shopping behavior using transactional data from 3
 - `notebook.ipynb`: Data Cleaning & Feature Engineering Script
 - `queries.sql`: PostgreSQL Analysis Queries
 - `Customer Shopping Behavior Analysis.pdf`: Detailed Project Report
+- - `Customer behavior analysis.pbix`: Detailed Project Report
+## 📊 Power BI Dashboard
+![Customer Behavior Analysis Dashboard](dashboard.png)
